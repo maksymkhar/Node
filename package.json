@@ -1,0 +1,26 @@
+{
+  "name": "mynpmpackage",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "hello.js",
+  "dependencies": {
+    "browserify": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksymkhar/Node.git"
+  },
+  "keywords": [
+    "caca"
+  ],
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksymkhar/Node/issues"
+  },
+  "homepage": "https://github.com/maksymkhar/Node#readme"
+}
